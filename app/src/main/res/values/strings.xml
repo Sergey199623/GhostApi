@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GhosAPI View</string>
+    <string name="url">URL</string>
+    <string name="key">KEY</string>
+    <string name="save">Save</string>
+    <string name="postlist">Posts</string>
+    <string name="pagelist">pagelist</string>
+    <string name="settings">Settings</string>
+</resources>
