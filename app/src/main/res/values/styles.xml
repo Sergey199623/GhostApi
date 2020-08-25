@@ -1,11 +1,19 @@
 <resources>
 
+<<<<<<< HEAD
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+=======
+    <dimen name="base_padding">13dp</dimen>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="android:windowBackground">@drawable/background</item>
+>>>>>>> upd
     </style>
 
 </resources>

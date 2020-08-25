@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GhostAPI</string>
+    <string name="post_ago_1">минуту назад</string>
+    <string name="post_ago_2">%1$d мин. назад</string>
+    <string name="post_ago_3">час назад</string>
+    <string name="post_ago_4">%1$d час. назад</string>
+    <string name="post_ago_5">вчера</string>
+    <string name="post_ago_6">%1$d дн. назад</string>
+    <string name="post_time">%1$d мин.</string>
+</resources>

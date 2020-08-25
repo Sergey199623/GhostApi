@@ -8,6 +8,7 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+<<<<<<< HEAD
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -18,10 +19,34 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+=======
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name="sv.ghostapiposts.ui.SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+>>>>>>> upd
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
+=======
+
+        <activity
+            android:name="sv.ghostapiposts.ui.FeedPostsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sv.ghostapiposts.ui.ErrorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sv.ghostapiposts.ui.DetailsPostActivity"
+            android:screenOrientation="portrait" />
+>>>>>>> upd
     </application>
 
 </manifest>
