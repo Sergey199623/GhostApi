@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GhostAPI</string>
+    <string name="post_ago_1">a minute ago</string>
+    <string name="post_ago_2">%1$d minutes ago</string>
+    <string name="post_ago_3">an hour ago</string>
+    <string name="post_ago_4">%1$d hours ago</string>
+    <string name="post_ago_5">a day ago</string>
+    <string name="post_ago_6">%1$d days ago</string>
+    <string name="post_time">%1$d min read</string>
+</resources>
